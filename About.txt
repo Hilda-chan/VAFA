@@ -15,7 +15,7 @@ The math part is composed of two functionalities :
 ----------------------------CRYPTO PART-----------------------------------
 The crypto part have 4 algorithms :
 
-"Chiffrement Césear" : You need to specify a word and a rotation.
+"Chiffrement César" : You need to specify a word and a rotation.
 
 "Chiffrement Vigenère" : You need to specify a word to cipher, 
 			  and a word to use as a key
