@@ -4,7 +4,7 @@ CPPFLAGS =-O2
 LDLIBS=
 
 
-SRC = Ui.c Math_Tools/calculator/tinyexpr.c Algo_tools/algo/graph/dfs/Gdfs.c Algo_tools/algo/graph/bfs/Gbfs.c Algo_tools/algo/tree/dfs/Tdfs.c Algo_tools/algo/tree/bfs/Tbfs.c Algo_tools/algo/tree/treeCheck/isTree/IsTree.c Algo_tools/algo/queue/queue.c
+SRC = Ui.c Math_Tools/calculator/tinyexpr.c Algo_tools/graph/dfs/Gdfs.c Algo_tools/graph/bfs/Gbfs.c Algo_tools/tree/dfs/Tdfs.c Algo_tools/tree/bfs/Tbfs.c Algo_tools/tree/treeCheck/isTree/IsTree.c Algo_tools/queue/queue.c
 
 OBJ = ${SRC:.c=.o}
 
