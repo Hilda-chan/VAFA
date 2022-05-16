@@ -5,7 +5,7 @@
 #include <string.h>
 
 //INCLUDE ALGO PART
-#include "../../../Algo_tools/algo/general.c"
+#include "../../../Algo_tools/general.c"
 
 
 void Call_Algo(char font[], char Box[], int mode)
